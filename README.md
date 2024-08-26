@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[Link to the video walkthrough](https://imgur.com/a/web-102-prework-4Z3MJrK)
+[Link to the video walkthrough](https://imgur.com/a/4Z3MJrK)
 
 
 <img src='https://i.imgur.com/2dc7N1N.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
