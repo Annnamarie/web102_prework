@@ -17,16 +17,22 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] No additional features were added but it would be good to have a search feature
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[img]https://i.imgur.com/QsybVgg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+[![Video Walkthrough](https://i.imgur.com/QsybVgg.gif)](https://imgur.com/QsybVgg)
+
+Click the image to view the video.
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif and Imgur
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
