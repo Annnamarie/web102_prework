@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 
 <img src='[img]https://i.imgur.com/QsybVgg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Link: [Click here for video walkthrough](https://imgur.com/QsybVgg](https://imgur.com/a/web102-prework-EVnQ39Z)
+Link: [Click here for video walkthrough](https://imgur.com/a/web102-prework-EVnQ39Z)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif and Imgur
