@@ -25,11 +25,7 @@ Here's a walkthrough of implemented features:
 
 <img src='[img]https://i.imgur.com/QsybVgg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-[![Video Walkthrough](https://i.imgur.com/QsybVgg.gif)](https://imgur.com/QsybVgg)
-
-Click the image to view the video.
-
-
+Link: [Click here for video walkthrough](https://imgur.com/QsybVgg)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif and Imgur
@@ -40,11 +36,16 @@ GIF created with ScreenToGif and Imgur
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+From the very beginning of the challenge, I had trouble with the website for the prework. After joining the slack channel, I was able to see that others were also having issues and it turns out that the prework website was down so thankfully there was an offline version available. 
+
+It took me a little while to get through the later challenges since I needed a refresher on javascript and what I learned from web101 and the resources helped me get through it. 
+There was an issue with the images and I could not get them to the proper size at the beginning, and I was able to fix it by adding the align items which I missed in the steps. 
+
+Another challenge that I encountered was the secret key for challenge 7, it would not take it even though I have double and triple checked the answers. After looking through the questions and responses in the slack channel, I was able to find out that the last component had to be capitalized for the secret key to work. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Annamarie Cortes
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
